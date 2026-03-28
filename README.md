@@ -170,21 +170,6 @@ Here's what the data actually told us:
 
 ---
 
-## 📊 Power BI Dashboard
-
-The dashboard was built to give stakeholders a quick, filterable view of all key metrics without needing to dig into raw data.
-
-![Dashboard Preview](dashboard/Dashboard.png)
-
-**What's on the dashboard:**
-- KPI cards — Total Customers (3.9K), Average Purchase Amount ($59.76), Average Review Rating (3.75)
-- Revenue and Sales by Category
-- Revenue and Sales by Age Group
-- Subscription Status breakdown (donut chart)
-- Filters for Gender, Category, Subscription Status, and Shipping Type
-
----
-
 ## 💡 Business Recommendations
 
 Based on the analysis, here's what I'd recommend to the business:
