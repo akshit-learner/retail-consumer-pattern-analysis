@@ -229,8 +229,3 @@ jupyter
 
 ---
 
-
-
----
-
-*If you found this project helpful or interesting, a ⭐ on the repo would mean a lot!*
